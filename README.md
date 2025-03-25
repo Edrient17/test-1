@@ -79,4 +79,4 @@ print('Hello World!')
 [GitHub 주소](https://github.com/Edrient17, "부연 설명")
 
 # 이미지 표시하기
-![프로필 이미지](./The Shorekeeper.jpg)
+![프로필 이미지](./Shorekeeper.jpg)
